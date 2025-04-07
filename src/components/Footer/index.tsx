@@ -126,7 +126,7 @@ const Footer: React.FC = () => {
         <div className="py-6 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm">
-              &copy; 2024 Academia Força Total. Todos os direitos reservados.
+              &copy; 2025 Academia Força Total. Todos os direitos reservados.
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white text-sm">
